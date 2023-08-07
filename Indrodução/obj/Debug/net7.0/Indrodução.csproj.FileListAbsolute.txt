@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Indrodução\Indrodução\bin\Debug\net7.0\Indrodução.exe
+C:\Users\user\source\repos\Indrodução\Indrodução\bin\Debug\net7.0\Indrodução.deps.json
+C:\Users\user\source\repos\Indrodução\Indrodução\bin\Debug\net7.0\Indrodução.runtimeconfig.json
+C:\Users\user\source\repos\Indrodução\Indrodução\bin\Debug\net7.0\Indrodução.dll
+C:\Users\user\source\repos\Indrodução\Indrodução\bin\Debug\net7.0\Indrodução.pdb
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.AssemblyInfo.cs
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.dll
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\refint\Indrodução.dll
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.pdb
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\Indrodução.genruntimeconfig.cache
+C:\Users\user\source\repos\Indrodução\Indrodução\obj\Debug\net7.0\ref\Indrodução.dll
