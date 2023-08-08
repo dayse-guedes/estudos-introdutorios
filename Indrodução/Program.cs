@@ -1,8 +1,8 @@
-﻿string aAmiga = "Dayse";
-Console.WriteLine("Hello " + aAmiga);
+﻿//Interpolação de string usando "$"
 
-//Interpolação de string usando "$"
+string aAmiga1 = "Ana";
+string aAmiga2 = "Marta";
 
-Console.WriteLine($"Hello  (aAmiga)");
+Console.WriteLine($"{aAmiga1} e {aAmiga2} são lindas!");
 
 
